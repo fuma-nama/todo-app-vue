@@ -24,7 +24,7 @@
 </template>
 
 <script setup lang="ts">
-const items = ref<string[]>([]);
+const items = useState<string[]>("todos", () => []);
 const text = ref("");
 
 function addItem() {
