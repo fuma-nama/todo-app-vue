@@ -1,6 +1,6 @@
 <template>
     <div
-        class="flex flex-row items-start gap-4 rounded-lg p-4 bg-gradient-to-b from-slate-800 to-slate-900 border border-slate-600"
+        class="flex flex-row items-start gap-4 rounded-lg p-4 bg-gradient-to-b from-slate-900 to-slate-950 border border-slate-800"
     >
         <p class="w-0 flex-1"><slot /></p>
         <button
