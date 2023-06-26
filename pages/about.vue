@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h1 class="font-bold text-4xl">About</h1>
-        <p class="text-slate-400 mt-4">
+        <h1 class="font-bold text-2xl">About</h1>
+        <p class="text-slate-400 mt-2">
             This is a simple todo app built with Nuxt.js 3 and Tailwind CSS.
         </p>
         <div class="flex flex-row gap-4 mt-4">
